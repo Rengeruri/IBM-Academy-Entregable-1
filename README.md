@@ -1,5 +1,6 @@
 # IBM-Academy-Entregable-1
-Entregable de la semana 3 de la academia IBM
+Entregable de la semana 3 de la academia IBM.
+Projecto de una universidad doónde a cada entidad se le han agregado los métodos correspondientes especificados en el documento: [TallerSemana3.docx](https://github.com/Rengeruri/IBM-Academy-Entregable-1/files/7654220/TallerSemana3.docx)
 
 ## Imagenes del funcionamiento
 
