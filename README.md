@@ -3,7 +3,7 @@ Entregable de la semana 3 de la academia IBM - Carlos Uriel Villegas Hernández.
 
 Proyecto de una universidad dónde a cada entidad se le han agregado los métodos correspondientes especificados en el documento: [TallerSemana3.docx](https://github.com/Rengeruri/IBM-Academy-Entregable-1/files/7654220/TallerSemana3.docx)
 
-## David, si ves esto, el link para el entregable 2 es: https://github.com/Rengeruri/IBM-Academy-Entregable-1
+## David, si ves esto, el link para el entregable 2 es: https://github.com/Rengeruri/IBM-Academy-Entregable-2
 
 ## Imagenes del funcionamiento
 
